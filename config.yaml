@@ -1,0 +1,17 @@
+﻿# 配置文件
+
+DAILY_TIME: "06:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
+
+START_DATE: "2022-05-01" # 纪念日
+CITY: "武汉"
+
+BIRTHDAY:
+  - "04-23"
+
+APP_ID: "wxdced1daff8cd1cc0"
+APP_SECRET: "d99113ef4a4735ada85b9902b0d6363e"
+
+USER_ID: 
+  - "oCp5I6weGgrQUH4ea5xFzboAbzV8"
+  - "oCp5I61-VL-7HERmBb4MQXPGOLGg" # 你可以通过配置多个USER_ID来设置多个接受者，如果接受者只有一人删除本行即可
+TEMPLATE_ID: "PK9cWXuoNRcxVTJq7H2Zl62fdrqn94aK5lEzNTyJ2WM"
